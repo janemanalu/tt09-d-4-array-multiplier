@@ -24,3 +24,5 @@ to verify the answer. Testing with different 8-bit values will ensure reliable f
 
 ## External hardware
 N/A
+
+![4x4ArrayMultiplier](https://github.com/user-attachments/assets/330fd08e-401f-4584-9669-e65a4ceb8b18)
